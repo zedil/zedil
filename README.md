@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zedil
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift
+- 👀 I’m an iOS Developer
 
 <!---
 zedil/zedil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
